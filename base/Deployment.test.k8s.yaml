@@ -8,6 +8,7 @@ metadata:
   name: test
   namespace: test
 spec:
+  replicas: 3
   selector:
     matchLabels:
       app.kubernetes.io/component: back
