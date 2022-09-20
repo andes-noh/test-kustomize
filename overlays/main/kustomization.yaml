@@ -2,6 +2,6 @@ apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 images:
 - name: ghcr.io/andes-noh/example-app
-  newTag: 8ab6bfc1
+  newTag: e40f6405
 resources:
 - ../../base
