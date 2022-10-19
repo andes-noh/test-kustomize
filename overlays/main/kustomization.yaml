@@ -4,6 +4,6 @@ images:
 - name: andesnoh/cicd_test
   newTag: b2d7f2e9
 - name: andesnoh/cicd_test
-  newTag: 3c85e0ef
+  newTag: latest
 resources:
 - ../../base
