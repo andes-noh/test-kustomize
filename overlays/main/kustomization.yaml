@@ -3,7 +3,7 @@ kind: Kustomization
 images:
 - name: andesnoh/cicd_test
   newTag: b2d7f2e9
-- name: ghcr.io/andes-noh/example-app
+- name: andesnoh/cicd_test
   newTag: 3c85e0ef
 resources:
 - ../../base
